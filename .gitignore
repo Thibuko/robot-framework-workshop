@@ -1,0 +1,13 @@
+# Python
+.venv
+__pycache__
+
+# IDE
+.idea
+.vscode
+
+# Robot Framework
+log.html
+output.xml
+report.html
+playwright-log.txt
