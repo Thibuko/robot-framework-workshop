@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The purpose of this exercise is to ensure that everyone has access to the project examples and source code. Ensure python 3, pip, git, and robot framework are installed properly.
+The purpose of this exercise is to ensure that everyone has access to the project examples and source code. Ensure python 3, pip, git, robot framework and robotframework-browser are installed properly.
 
 ## Learning Objectives
 
-* You will demonstrate that you have python, pip, git, and robotframework installed correctly.
+* You will demonstrate that you have python, pip, git, robotframework-browser and robotframework installed correctly.
 
 ## Challenge
 
@@ -20,7 +20,8 @@ Before starting the install process, check to see what is already installed. At 
 git version
 python --version
 robot --version
-pip --version-
+pip list | robotframework-browser
+pip --version
 ```
 
 #### Install Tools
@@ -29,6 +30,8 @@ pip --version-
 * [Install python 3.10](https://www.python.org/downloads/)
 * [Install pip](https://pip.pypa.io/en/stable/installing/)
 * [Install Robot Framework](https://pypi.org/project/robotframework/)
+* [Install Node.js](https://nodejs.org/en/download/)
+* [Install Robot Framework Browser Library](https://robotframework-browser.org/#installation/)
 
 ##### IDE
 
@@ -46,4 +49,6 @@ git version
 python --version
 pip --version
 robot --version
+pip list | robotframework-browser
+rfbrowser init
 ```
