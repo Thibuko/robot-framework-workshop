@@ -6,7 +6,7 @@ The purpose of this exercise is to ensure that everyone has access to the projec
 
 ## Learning Objectives
 
-* Automators will demonstrate that they have python, pip, git, and robotframework installed correctly.
+* You will demonstrate that you have python, pip, git, and robotframework installed correctly.
 
 ## Challenge
 
