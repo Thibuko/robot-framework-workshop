@@ -1,0 +1,2 @@
+[tool.robocop]
+configure = ["W0302:convention:first_word_capitalized"]
