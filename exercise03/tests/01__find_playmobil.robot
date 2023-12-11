@@ -16,3 +16,9 @@ Find Playmobil set 9463
     Given I have an opened page on Amazon
     When I search for playmobil set 9463
     Then I should see playmobil set 9463 in the results
+
+Find Playmobil set 70677
+    [Documentation]    Find Playmobil set 9463 price on amazon
+    Given I have an opened page on Amazon
+    When I search for playmobil set 70677
+    Then I should see playmobil set 70677 in the results

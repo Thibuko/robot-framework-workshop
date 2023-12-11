@@ -38,7 +38,7 @@ pip --version
 You'll need an IDE, the recommended one is VSCode with plugin Robot Framework Language Server
 
 * [Install VSCode](https://code.visualstudio.com/download)
-* [Install Robot Framework Languge Server](https://marketplace.visualstudio.com/items?itemName=robocorp.robotframework-lsp)
+* [Install Robot Framework Language Server](https://marketplace.visualstudio.com/items?itemName=robocorp.robotframework-lsp)
 
 #### Validate Installations
 

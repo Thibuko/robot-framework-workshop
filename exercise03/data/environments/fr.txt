@@ -1,0 +1,3 @@
+--outputdir ./exercise03/results/fr
+--variable URL:https://www.amazon.fr
+--variable PAGE_TITLE:Amazon.fr: livres, jeux vidéo, musique, high-tech, informatique, jouets, vêtements, chaussures, sport, bricolage, maison, beauté, puériculture, épicerie et plus encore

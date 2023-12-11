@@ -7,7 +7,7 @@ Resource    ./keywords.resource    # Import the keywords file
 
 
 *** Test Cases ***
-Open Google in Chromium
+Open Robot Framework web site in Chromium
     [Documentation]    Open Google in Chromium
     New Browser    chromium    headless=false    # Open a new browser
     New Page    ${URL}   # Open a new page
